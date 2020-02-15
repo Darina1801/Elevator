@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 21008050cb432da42bc609b2cc958e56
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabBuilding: {fileID: 6571577517373863544, guid: d24500acbd83f014faf9f6c584170715,
+      type: 3}
+  - prefabPlayer: {fileID: 8908587932493692112, guid: bfff6356050f6954d828ef7a6d2499f0,
+      type: 3}
+  - prefabElevator: {fileID: 2042488248139599297, guid: 576d43543ec7f8d4387a80402183872d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
